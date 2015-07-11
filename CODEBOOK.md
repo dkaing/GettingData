@@ -2,7 +2,7 @@
 by Davin Kaing
 
 # Background of Acquired Data
-The data used for this project, "Human Activity Recognition Using Smartphones Dataset," [1] is acquired from UCI database. For this study, participants were asked to perform six activities: walking on a plane field, walking upstairs, walking downstairs, sitting, standing up, and laying down. From these activities, the experimenters captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50 Hz. 70% of participants contributed to the training data and 30% contributed to the test data. 
+The data used for this project, "Human Activity Recognition Using Smartphones Dataset," [1] is acquired from UCI database. For this study, participants were asked to perform six activities: walking on a plane field, walking upstairs, walking downstairs, sitting, standing up, and laying down. From these activities, the experimenters captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50 Hz. 70% of participants contributed to the training data and 30% contributed to the test data. As of the measurements, the accelerometer and gyroscope were used. 
 
 # Variable Descriptions
  [1] "Subject" - there are 30 subjects in this experiment and each subject performed 6 tasks.                                       
